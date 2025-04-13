@@ -1,0 +1,6 @@
+DONE 1. move apikey to another file
+2. Use sqlite3 for preferences
+DONE 3. Move vector to another file
+4. Keeps repeating recipes
+5. Too long recipe description
+6. Greets familiar customer as a newcomer
